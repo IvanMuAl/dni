@@ -1,6 +1,18 @@
 toma proyecto
 <<<<<<< HEAD
+<<<<<<< HEAD
 te has quedado clavo en pensar que poner jajajaja
 =======
 Sara modifica :)
 >>>>>>> 7d1f32cd184ec9161d7796a4770146f2f031a120
+=======
+
+lo acepto
+
+Sara modifica :)
+
+
+
+Natalia escribe algo más
+
+>>>>>>> c5b3a213a2e9eeee046b1c0b83d2d2ddfeda703e
